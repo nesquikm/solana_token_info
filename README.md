@@ -33,7 +33,7 @@ Token info:
 You can add debug level to see more information:
 
 ```bash
-argo run -- -dd -a Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB  -e mainnet
+cargo run -- -dd -a Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB  -e mainnet
     Finished `dev` profile [unoptimized + debuginfo] target(s) in 0.24s
      Running `target/debug/solana_token_info -dd -a Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB -e mainnet`
 [*] Setting log level to: Info
