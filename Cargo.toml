@@ -18,4 +18,7 @@ solana-client = "1.18.26"
 solana-program = "1.18.26"
 domain = { version = "0.10.3", features = ["resolv"] }
 url = "2.5.2"
+spl-token-metadata-interface = "0.3.0"
+solana-account-decoder = "1.18.21"
+
 
